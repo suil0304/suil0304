@@ -1,16 +1,21 @@
-## Hi there 👋
+# suil0304
+Hello, my name is `suil`(pronounce as `suri`).
+Currently, I'm working on `Butterscotch`,  known for *FNF MOD Eliasfunkin' Revival Team*.
 
-<!--
-**suil0304/suil0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I consider myself a coder rather than a programmer.  
+Since there are so many talented people in the world, I feel coder fits me better for now.
 
-Here are some ideas to get you started:
+Programming Languages I can use:
+  - C
+  - C#
+  - Java (syntax)
+  - JS/TS (a little bit)
+  - Haxe
+  - HTML/CSS (i know it is not a programming language, but i know that.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Things I cannot do:
+  - Drawing
+  - Make music
+  - etc.
+
+Thanks!
