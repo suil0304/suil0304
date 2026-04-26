@@ -12,7 +12,7 @@ Programming Languages I can use:
   - Java (syntax)
   - JS/TS (a little bit)
   - Haxe
-  - HTML/CSS (i know it is not a programming language, but i know that.)
+  - HTML/CSS (i know it is not a programming language.)
 
 Things I cannot do:
   - Drawing
