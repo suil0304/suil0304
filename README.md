@@ -15,6 +15,12 @@ Programming Languages I can use:
   - JS/TS (a little bit)
   - Haxe
   - HTML/CSS (i know it is not a programming language.)
+  - MySQL(a little bit, it is Relational DBMS)
+
+Tech Stacks I can use:
+  - React(a little bit)
+  - NestJS(little bit)
+  - Prisma(ORM)
 
 Things I cannot do:
   - Drawing
