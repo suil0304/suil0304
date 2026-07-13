@@ -1,9 +1,5 @@
-A Full-stack Developer.
-
 # suil0304
 Hello, my name is `suil`(pronounce as `suri`).
-
-Currently, I'm working on `Butterscotch`,  known for *FNF MOD Eliasfunkin' Revival Team*.
 
 I consider myself a coder rather than a programmer.  
 Since there are so many talented people in the world, I feel coder fits me better for now.
