@@ -1,8 +1,10 @@
 # suil0304
-Hello, my name is `suil`(pronounce as `suri`).
+A half-new type funker.
+-----------------------------------------
+Hello, guys.
+My name is suil(pronounce as "suri").
 
-I consider myself a coder rather than a programmer.  
-Since there are so many talented people in the world, I feel coder fits me better for now.
+I'm coder.
 
 Programming Languages I can use:
   - C
