@@ -54,26 +54,32 @@ FNF Psych Engine scripting only
 Syntax only
 
 <h3>JS <img src="https://skillicons.dev/icons?i=javascript" width="28" /></h3>
-- Prototype
-- Closure
-- `this`
-- Event Loop
+<ul>
+	<li>Prototype</li>
+	<li>Closure</li>
+	<li>`this`</li>
+	<li>Event Loop</li>
+</ul>
 
 <h3>TS <img src="https://skillicons.dev/icons?i=typescript" width="28" /></h3>
-- Union Type
-- Generic
-- `keyof`
-- Mapped Type
-- Discriminated Union
-- Declaration Merging
+<ul>
+	<li>Union Type</li>
+	<li>Generic</li>
+	<li>`keyof`</li>
+	<li>Mapped Type</li>
+	<li>Discriminated Union</li>
+	<li>Declaration Merging</li>
+</ul>
 
 <h3>Haxe <img src="https://skillicons.dev/icons?i=haxe" width="28" /></h3>
-- Interface
-- Abstract Type
-- Enum Abstract
-- Abstract Class
-- Typedef
-- Generic
+<ul>
+	<li>Interface</li>
+	<li>Abstract Type</li>
+	<li>Enum Abstract</li>
+	<li>Abstract Class</li>
+	<li>Typedef</li>
+	<li>Generic</li>
+</ul>
 
 <h3>HTML/CSS <img src="https://skillicons.dev/icons?i=html" width="28" /><img src="https://skillicons.dev/icons?i=css" width="28" /></h3>
 It is essential, right?
