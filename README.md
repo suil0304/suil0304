@@ -4,10 +4,13 @@ A quater-new type funker
 
 ## Overview
 I am a coder.
+
 There are many awesome people in the world who can truly be called programmers.
+
 So I think being a coder suits me.
 
 I do mostly coding.
+
 I like to play FNF, but I don't have a lot of modding experience.
 
 ## Achievements
