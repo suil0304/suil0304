@@ -47,19 +47,19 @@ I like to play FNF, but I don't have a lot of modding experience.
 ### C
 Algorithm solving only
 
-<h3>Lua <img src="https://skillicons.dev/icons?i=lua" width="20" /></h3>
+<h3>Lua <img src="https://skillicons.dev/icons?i=lua" width="28" /></h3>
 FNF Psych Engine scripting only
 
 ### Java
 Syntax only
 
-<h3>JS <img src="https://skillicons.dev/icons?i=javascript" width="20" /></h3>
+<h3>JS <img src="https://skillicons.dev/icons?i=javascript" width="28" /></h3>
 - Prototype
 - Closure
 - `this`
 - Event Loop
 
-<h3>TS <img src="https://skillicons.dev/icons?i=typescript" width="20" /></h3>
+<h3>TS <img src="https://skillicons.dev/icons?i=typescript" width="28" /></h3>
 - Union Type
 - Generic
 - `keyof`
@@ -67,7 +67,7 @@ Syntax only
 - Discriminated Union
 - Declaration Merging
 
-<h3>Haxe <img src="https://skillicons.dev/icons?i=haxe" width="20" /></h3>
+<h3>Haxe <img src="https://skillicons.dev/icons?i=haxe" width="28" /></h3>
 - Interface
 - Abstract Type
 - Enum Abstract
@@ -75,7 +75,7 @@ Syntax only
 - Typedef
 - Generic
 
-<h3>HTML/CSS <img src="https://skillicons.dev/icons?i=html,css" width="20" /></h3>
+<h3>HTML/CSS <img src="https://skillicons.dev/icons?i=html" width="28" /><img src="https://skillicons.dev/icons?i=css" width="28" /></h3>
 It is essential, right?
 
 ### SQL
@@ -89,44 +89,44 @@ It is essential, right?
 ### FE
 <ul>
 	<li>
-		React <img src="https://skillicons.dev/icons?i=react" width="20" />
+		React <img src="https://skillicons.dev/icons?i=react" width="28" />
 		<ul>
             		<li>react-router-dom v5</li>
         	</ul>
 	</li>
-	<li>Vite (React only) <img src="https://skillicons.dev/icons?i=vite" width="20" /></li>
-	<li>SCSS <img src="https://skillicons.dev/icons?i=scss" width="20" /></li>
+	<li>Vite (React only) <img src="https://skillicons.dev/icons?i=vite" width="28" /></li>
+	<li>SCSS <img src="https://skillicons.dev/icons?i=scss" width="28" /></li>
 </ul>
 
 ### BE
 <ul>
-	<li>NestJS <img src="https://skillicons.dev/icons?i=nest" width="20" /></li>
-	<li>Prisma (NestJS only) <img src="https://skillicons.dev/icons?i=prisma" width="20" /></li>
-	<li>MySQL <img src="https://skillicons.dev/icons?i=mysql" width="20" /></li>
+	<li>NestJS <img src="https://skillicons.dev/icons?i=nest" width="28" /></li>
+	<li>Prisma (NestJS only) <img src="https://skillicons.dev/icons?i=prisma" width="28" /></li>
+	<li>MySQL <img src="https://skillicons.dev/icons?i=mysql" width="28" /></li>
 </ul>
 
 ### Discord Bot
 <ul>
-	<li>discord.js <img src="https://skillicons.dev/icons?i=discordjs" width="20" /></li>
+	<li>discord.js <img src="https://skillicons.dev/icons?i=discordjs" width="28" /></li>
 	<li>discord.py</li>
 </ul>
 
 ### Game
 <ul>
-	<li>HaxeFlixel <img src="https://skillicons.dev/icons?i=haxeflixel" width="20" /></li>
+	<li>HaxeFlixel <img src="https://skillicons.dev/icons?i=haxeflixel" width="28" /></li>
 	<li>HScript (FNF Psych Engine)</li>
 	<li>HScript Class + Polymod (FNF V-Slice)</li>
 </ul>
 
 ## JS/TS Runtime & Tooling
 <ul>
-	<li>Deno <img src="https://skillicons.dev/icons?i=deno" width="20" /></li>
-	<li>Node.js/npm <img src="https://skillicons.dev/icons?i=nodejs" width="20" /></li>
+	<li>Deno <img src="https://skillicons.dev/icons?i=deno" width="28" /></li>
+	<li>Node.js/npm <img src="https://skillicons.dev/icons?i=nodejs" width="28" /></li>
 </ul>
 
 ## Development Tools
 <ul>
-	<li>Visual Studio Code <img src="https://skillicons.dev/icons?i=vscode" width="20" /></li>
-	<li>Git <img src="https://skillicons.dev/icons?i=git" width="20" /></li>
-	<li>GitHub <img src="https://skillicons.dev/icons?i=github" width="20" /></li>
+	<li>Visual Studio Code <img src="https://skillicons.dev/icons?i=vscode" width="28" /></li>
+	<li>Git <img src="https://skillicons.dev/icons?i=git" width="28" /></li>
+	<li>GitHub <img src="https://skillicons.dev/icons?i=github" width="28" /></li>
 </ul>
