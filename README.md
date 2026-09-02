@@ -84,6 +84,9 @@ Syntax only
 <h3>HTML/CSS <img src="https://skillicons.dev/icons?i=html" width="28" /><img src="https://skillicons.dev/icons?i=css" width="28" /></h3>
 It is essential, right?
 
+<h3>Python <img src="https://skillicons.dev/icons?i=python" width="28" /></h3>
+And it is essential, too.
+
 ### SQL
 - DDL
 - DML
