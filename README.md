@@ -57,7 +57,7 @@ Syntax only
 <ul>
 	<li>Prototype</li>
 	<li>Closure</li>
-	<li>`this`</li>
+	<li><code>this</code></li>
 	<li>Event Loop</li>
 </ul>
 
@@ -65,7 +65,7 @@ Syntax only
 <ul>
 	<li>Union Type</li>
 	<li>Generic</li>
-	<li>`keyof`</li>
+	<li><code>keyof</code></li>
 	<li>Mapped Type</li>
 	<li>Discriminated Union</li>
 	<li>Declaration Merging</li>
@@ -100,8 +100,8 @@ And it is essential, too.
 	<li>
 		React <img src="https://skillicons.dev/icons?i=react" width="28" />
 		<ul>
-            		<li>react-router-dom v5</li>
-        	</ul>
+			<li>react-router-dom v6</li>
+		</ul>
 	</li>
 	<li>Vite (React only) <img src="https://skillicons.dev/icons?i=vite" width="28" /></li>
 	<li>SCSS <img src="https://skillicons.dev/icons?i=scss" width="28" /></li>
