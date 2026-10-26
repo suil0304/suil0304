@@ -25,7 +25,7 @@ I like to play FNF, but I don't have a lot of modding experience.
 - Private: `__` prefix
 
 ## Coding Style
-- Braces: Linux Kernel style
+- Braces: K&R style (1TBS)
 - Parentheses in clauses: attached (`if()`, not `if ()`)
 - Struct / Dictionary literals: spaces inside braces
 - Trailing comma: disabled
